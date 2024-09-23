@@ -1,0 +1,11 @@
+class Params():
+    telefone = 'input[ng-reflect-name="labelPhone"]'
+    nomeCompania = 'input[ng-reflect-name="labelCompanyName"]'
+    endereco = 'input[ng-reflect-name="labelAddress"]'
+    cargo = 'input[ng-reflect-name="labelRole"]'
+    primeiroNome = 'input[ng-reflect-name="labelFirstName"]'
+    ultimoNome = 'input[ng-reflect-name="labelLastName"]'
+    email = 'input[ng-reflect-name="labelEmail"]'
+    start = '//button[text()="Start"]'
+    submit = 'input[value="Submit"]'
+    sucess = 'div[class="message2"]'
